@@ -1,0 +1,59 @@
+.navbar{
+margin-bottom: 0;
+}
+
+.picture{
+background-image: url("fasola.jpg");
+width: 100%;
+height: 800px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.glyphicon-ok{
+font-size: 50px;
+color:black;
+}
+
+.box{
+padding: 50px 0;
+background-color:green;
+}
+
+
+.box p{
+font-weight: 600;
+font-size: 30px;
+padding: 25px 0 0;
+color: #eee;
+}
+
+.boxSecond{
+background-color:orange;
+}
+
+h2 {
+font-weight: 600;
+}
+
+.img-circle{
+padding-top:20px;
+}
+
+.boxSecond p{
+font-weight:600;
+}
+
+.control-progress{
+margin-bottom: 0;
+}
+
+footer {
+	padding: 15px 0;
+	background-color: #ddd;
+}
+
+footer p {
+	padding-left: 5px
+}
